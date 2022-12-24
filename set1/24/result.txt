@@ -1,2 +1,2 @@
-part 1 = 262
-part 2 = 785
+part 1 = 292
+part 2 = 816
